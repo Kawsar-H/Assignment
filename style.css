@@ -1,0 +1,32 @@
+.women img{
+    height: 65%;
+}
+.women{
+    border: none;
+    border-radius: 2em;
+}
+.women-footer{
+    border: none;
+}
+.man img{
+    height: 55%;}
+    .man{
+        border: none;
+        border-radius: 2em;}
+        .man-footer{
+            border: none;}
+.d{
+    color: darkorange;
+}
+.panda-last img{
+    height: 80px;
+    width: 80px;
+}
+.panda-pic img{
+    height:80%;
+    width: 80%;
+}
+.last-section{
+    height: 800;
+    width: 1200px;
+}
